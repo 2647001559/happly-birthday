@@ -16,7 +16,6 @@
 
 ``` lua
 happly-birthday-project
-├── happly-birthday-api -- 提供给外部访问的接口
-├── happly-birthday-dao -- 实体类、工具类、异常类等JavaBean
+├── happly-birthday-api -- 实体类、工具类、异常类等JavaBean和提供给外部访问的接口
 ├── happly-birthday-service -- 逻辑实现、业务处理
 ```
