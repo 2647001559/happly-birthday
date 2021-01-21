@@ -34,7 +34,7 @@
         <java-jwt.version>3.1.0</java-jwt.version>
         <jjwt.version>0.6.0</jjwt.version>
         <jackson-core.version>2.9.8</jackson-core.version>
-        <jackson-databind.version>2.9.8</jackson-databind.version>
+        <jackson-databind.version>2.9.10.7</jackson-databind.version>
         <hutool.version>4.5.7</hutool.version>
 
         <!-- 定义第三方依赖版本号 -->
